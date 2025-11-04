@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/765092939523523393/7ffe5e655d2047cc9465431bcde0be56/artifacts
+end_time: 1762241299459
+entry_point_name: ''
+experiment_id: '765092939523523393'
+lifecycle_stage: active
+run_id: 7ffe5e655d2047cc9465431bcde0be56
+run_name: popular-hawk-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762241295579
+status: 3
+tags: []
+user_id: suryavamshi

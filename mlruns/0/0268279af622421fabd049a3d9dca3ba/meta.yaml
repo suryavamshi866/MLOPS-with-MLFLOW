@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0268279af622421fabd049a3d9dca3ba/artifacts
+end_time: 1762236735754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0268279af622421fabd049a3d9dca3ba
+run_name: burly-snail-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762236735735
+status: 3
+tags: []
+user_id: suryavamshi

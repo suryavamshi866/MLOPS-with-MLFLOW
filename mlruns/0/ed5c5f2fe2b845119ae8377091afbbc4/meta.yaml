@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ed5c5f2fe2b845119ae8377091afbbc4/artifacts
+end_time: 1762238948603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed5c5f2fe2b845119ae8377091afbbc4
+run_name: rumbling-stork-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762238948309
+status: 3
+tags: []
+user_id: suryavamshi

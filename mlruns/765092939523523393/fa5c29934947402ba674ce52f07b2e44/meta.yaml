@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/765092939523523393/fa5c29934947402ba674ce52f07b2e44/artifacts
+end_time: 1762240484448
+entry_point_name: ''
+experiment_id: '765092939523523393'
+lifecycle_stage: active
+run_id: fa5c29934947402ba674ce52f07b2e44
+run_name: carefree-skink-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762240484077
+status: 3
+tags: []
+user_id: suryavamshi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9d88dd5353b34f5abeed297d949d501f/artifacts
+end_time: 1762236380642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d88dd5353b34f5abeed297d949d501f
+run_name: overjoyed-whale-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762236380625
+status: 3
+tags: []
+user_id: suryavamshi
